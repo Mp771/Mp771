@@ -1,4 +1,4 @@
-💫 About Me:
+## 💫 About Me: </br>
 🔭 I’m currently diving deep into the world of Cybersecurity, with hands-on projects in cryptography, threat detection, and secure software engineering.<br>
 👯 I’m looking to collaborate on innovative solutions that integrate AI with cybersecurity—especially in areas like malware risk assessment and intelligent threat mitigation.<br>
 🤝 I’m open to learning and contributing to Cloud Security, with a growing interest in securing cloud-native applications and DevSecOps practices.<br>
